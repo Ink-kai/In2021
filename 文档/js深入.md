@@ -1,6 +1,4 @@
-[toc]
-
-## [深入 constructor、prototype、`__proto__`、[[Prototype\]] 及 原型链](https://github.com/sisterAn/blog/issues/5)
+##  [深入 constructor、prototype、`__proto__`、[[Prototype]] 及 原型链](https://github.com/sisterAn/blog/issues/5)
 
 + constructor
 
